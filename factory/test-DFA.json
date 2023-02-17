@@ -1,0 +1,9 @@
+{
+	"name": "test-DFA",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f4c9bf1f-2cb5-4eaa-8473-7631756f2712",
+		"tenantId": "f93d5f40-88c0-4650-b8f2-cc4ec3ef6a10"
+	}
+}
